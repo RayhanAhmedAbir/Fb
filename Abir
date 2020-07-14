@@ -118,7 +118,7 @@ jalan("\033[1;93m To get any help join our Facebook Group \033[1;96m(SOS GANG)."
 
 jalan("\033[1;96m◈===============◈      \033[1;92mLet's start     \033[1;96m◈===============◈")
 
-CorrectUsername = "ABIR"
+CorrectUsername = "UserNameNai"
 CorrectPassword = "ABIR"
 
 
